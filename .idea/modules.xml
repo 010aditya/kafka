@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/weatherApp-master/weatherApp-master/WeatherApp.iml" filepath="$PROJECT_DIR$/weatherApp-master/weatherApp-master/WeatherApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrivals/arrivals/arrivals.iml" filepath="$PROJECT_DIR$/arrivals/arrivals/arrivals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kafka assignment.iml" filepath="$PROJECT_DIR$/.idea/kafka assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafkaAssignment/kafkaAssignment/kafkaAssignment.iml" filepath="$PROJECT_DIR$/kafkaAssignment/kafkaAssignment/kafkaAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turnstile/turnstile/turnstile.iml" filepath="$PROJECT_DIR$/turnstile/turnstile/turnstile.iml" />
+    </modules>
+  </component>
+</project>
